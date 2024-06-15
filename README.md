@@ -1,4 +1,4 @@
-# criptobites
+# cryptobites
 
 <details>
 <summary>healthcheck endpoint</summary>
